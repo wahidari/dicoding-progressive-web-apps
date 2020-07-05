@@ -1,2 +1,2 @@
-# Membangun Progressive Web Apps
-Repository ini memuat daftar contoh kode dan latihan yang ada pada kelas Membangun Progressive Web Apps
+# Submission Membangun Progressive Web Apps
+Repository ini memuat daftar submission yang ada pada kelas Membangun Progressive Web Apps
